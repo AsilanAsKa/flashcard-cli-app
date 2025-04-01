@@ -1,0 +1,3 @@
+apple|алим
+computer|компьютер 
+book|ном
